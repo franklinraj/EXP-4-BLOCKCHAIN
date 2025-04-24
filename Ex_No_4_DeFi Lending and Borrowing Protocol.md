@@ -1,6 +1,6 @@
 # Experiment 4: DeFi Lending and Borrowing Protocol
-## Name: Veeraragavan V
-## Reg no: 212223230237
+## Name: FRANKLIN RAJ G
+## Reg no: 212223230058
 ## Date : 21-04-2025
 # Aim:
 To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
